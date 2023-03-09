@@ -18,7 +18,7 @@
 # Projects:
    | Project   |      link      |  
    |----------|:-------------:|
-   | Responsive static site |  [Live Demo](https://mostafa351.github.io/yummyWaffelProject/tag-template1.html) |
+   | Responsive static site |  [Live Demo](https://mostafa351.github.io/yummyWaffelProject/index.html) |
  
 
 ## 📫 How to reach me:
