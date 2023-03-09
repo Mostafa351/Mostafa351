@@ -14,6 +14,12 @@
 
  BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+ 
+# Projects:
+   | Project   |      link      |  
+   |----------|:-------------:|
+   | Responsive static site |  [Live Demo](https://mostafa351.github.io/yummyWaffelProject/tag-template1.html) |
+ 
 
 ## 📫 How to reach me:
 
